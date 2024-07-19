@@ -5,6 +5,7 @@ C
 - wuftpd2600.c is my first exploit code and it's first case of fsb(format string bug) in around world. at the moment.
 i used 'tf8abcabtodalove' nick... 한글로된 번역본이 없는 익스플로잇 씨 언어 코드 한 개 입니다. 제가 개발을 했고 잘 안된다는 메일링리스트 내용이 잠깐 있었는데, 곧바로 외국의 엔지니어님 한 분이 디버거상에서 0x41414141이 제어로 넘어가는 것을 증명해주셔서 쓸 수 있게된 화일입니다.
 - bobek.c is no venglin's exploit as the top title comment it's perhaps should be my exploit code. (karpio, ksm the two nick i made just my easter egg) haha i bought ksm44 shure company's condensor mic and karpio is kill io's hidden meaning...)
+  SITE EXEC를 이용한 wuftpd2600.c 확장 코드입니다. 역시나 fsb입니다. :)
   .
   .
   .
